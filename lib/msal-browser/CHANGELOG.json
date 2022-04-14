@@ -2,6 +2,21 @@
   "name": "@azure/msal-browser",
   "entries": [
     {
+      "date": "Thu, 14 Apr 2022 17:40:28 GMT",
+      "tag": "@azure/msal-browser_v2.23.1",
+      "version": "2.23.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "beachball",
+            "package": "@azure/msal-browser",
+            "comment": "Bump @azure/msal-common to v6.3.0",
+            "commit": "f8f7c2068905e9ce2be9046400f808d208bf5573"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 04 Apr 2022 21:12:42 GMT",
       "tag": "@azure/msal-browser_v2.23.0",
       "version": "2.23.0",
